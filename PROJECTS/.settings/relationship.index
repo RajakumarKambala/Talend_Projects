@@ -1,0 +1,12 @@
+[ {
+  "baseItem" : {
+    "id" : "_gTDWAFcQEfCzccAIlNevtQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "filtering_hash",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+} ]
