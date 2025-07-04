@@ -9,4 +9,19 @@
     "version" : "Latest",
     "type" : "routine"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_tTGlwFctEfCDa5FYJwfCmg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_z2PioFctEfCDa5FYJwfCmg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_z2PioFctEfCDa5FYJwfCmg - products",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]
