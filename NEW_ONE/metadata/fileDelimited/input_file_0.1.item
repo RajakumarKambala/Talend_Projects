@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_NLy4AGOXEfCK5sZp5h01oQ" name="input_file" dataPackage="_NL3JcGOXEfCK5sZp5h01oQ" Server="Localhost 127.0.0.1" FilePath="C:/Users/Varun/Desktop/Talend/inputfileforExceptionHandling.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_NL3JcGOXEfCK5sZp5h01oQ" name="default" dataManager="_NLy4AGOXEfCK5sZp5h01oQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_NL3JcWOXEfCK5sZp5h01oQ" id="_A6ooYGOXEfCK5sZp5h01oQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_NL3JcmOXEfCK5sZp5h01oQ" label="emp_id_emp_name_dept_email_salary" length="41" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
